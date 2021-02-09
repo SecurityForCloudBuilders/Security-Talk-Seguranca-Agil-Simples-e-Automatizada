@@ -5,5 +5,5 @@ Apresentação feita na data 10/02/2021
 Apresentação feita no Reveal.js. 
 </h2>
 
-<p>Para saber mais em: [revealjs.com](https://revealjs.com).</p>
+<p>Para saber mais em: https://github.com/hakimel/reveal.js</p>
 
